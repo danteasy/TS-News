@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2017551.css",
-    "main.js": "/static/js/main.977b01be.js",
-    "index.html": "/index.html",
-    "main.e2017551.css.map": "/static/css/main.e2017551.css.map",
-    "main.977b01be.js.map": "/static/js/main.977b01be.js.map"
+    "main.css": "/TS-News/static/css/main.e2017551.css",
+    "main.js": "/TS-News/static/js/main.977b01be.js",
+    "index.html": "/TS-News/index.html",
+    "main.e2017551.css.map": "/TS-News/static/css/main.e2017551.css.map",
+    "main.977b01be.js.map": "/TS-News/static/js/main.977b01be.js.map"
   },
   "entrypoints": [
     "static/css/main.e2017551.css",
